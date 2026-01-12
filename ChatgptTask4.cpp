@@ -19,10 +19,17 @@ int main(){
     }
     cout << b << "\n";
     if (b==orignal){
+<<<<<<< HEAD
         cout << "Palindrome" << endl;
     }
     else{ 
         cout << "Not a Palindrome" << endl;
+=======
+        cout << "Palindrome";
+    }
+    else{ 
+        cout << "Not a Palindrome";
+>>>>>>> 044897c681968c18bd64d44e3976d6f749bf85ae
     }
 return 0;
 }

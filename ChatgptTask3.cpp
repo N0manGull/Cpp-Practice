@@ -16,6 +16,10 @@ int main(){
         b = b * 10 + a;
         n /= 10;
     }
+<<<<<<< HEAD
     cout << b << endl;
+=======
+    cout << b;
+>>>>>>> 044897c681968c18bd64d44e3976d6f749bf85ae
 return 0;
 }
