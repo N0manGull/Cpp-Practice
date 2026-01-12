@@ -15,6 +15,10 @@ int main(){
         a = a + 1;
         n /= 10; 
     }
+<<<<<<< HEAD
+    cout << a << endl;
+=======
     cout << a;
+>>>>>>> 044897c681968c18bd64d44e3976d6f749bf85ae
 return 0;
 }
